@@ -63,7 +63,7 @@ The architecture is designed to be easily extendable with real-time AI APIs like
 
 ## 🌐 Live Demo
 
-[Add your Netlify link here]
+https://chunav-assistant.netlify.app/
 
 
 
